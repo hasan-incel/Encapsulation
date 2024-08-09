@@ -1,4 +1,4 @@
-C# dilinde Encapsulation konusu üzerinde prtik çözüyorum.
+C# dilinde Encapsulation konusu üzerinde pratik çözüyorum.
 
 Pratik - Encapsulation 
 Bu örnekte sizlerden bir Araba sınıfı oluşturmanız isteniyor.
